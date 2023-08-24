@@ -29,7 +29,7 @@
 <div align="left">
 
 ### About Me :
-I am Rohan Mehta, a mechanical graduate with 3.5 years experience in product design and document control. I am an aspiring data scientist and am currently pursuing my post grad at Jio Institute, Mumbai in Artificial Intelligence and Data Science.
+I am Rohan Mehta, a passionate data scientist with a keen eye for detail. I thrive on dissecting complex datasets to uncover valuable insights that drive strategic decision-making.
 <br>
 - You can contact me at rohan1feb@gmail.com
 - The role data can play in business decisions has fascinated me and I would like to work in a role of exploring insights from them using AI/ML pipelines and build future strategies.
